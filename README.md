@@ -1,2 +1,24 @@
-# pokemon
-En este prueba validaremos nuestros conocimientos del framework Vue Js obtenidos a lo largo de este módulo. Para lograrlo, necesitarás usar todas las competencias aprendidas en las unidades para crear una aplicación con temática de la serie Pokémon haciendo uso de la PokéAPI.
+# pokemon-guessing-game
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
